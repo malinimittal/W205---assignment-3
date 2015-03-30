@@ -1,0 +1,33 @@
+users:
+{u'total': 68, u'_id': u'xmlprague'}
+{u'total': 51, u'_id': u'alexmilowski'}
+{u'total': 37, u'_id': u'MacYET'}
+{u'total': 26, u'_id': u'xquery'}
+{u'total': 25, u'_id': u'gimsieke'}
+
+hashtags:
+{u'total': 746, u'_id': u'xmlprague'}
+{u'total': 38, u'_id': u'XMLPrague'}
+{u'total': 27, u'_id': u'thetransformationsong'}
+{u'total': 19, u'_id': u'oxygenxml'}
+{u'total': 18, u'_id': u'XProc'}
+{u'total': 15, u'_id': u'RDFa'}
+{u'total': 14, u'_id': u'BRILLIANT'}
+{u'total': 14, u'_id': u'XML'}
+{u'total': 14, u'_id': u'FUCKYEAH'}
+{u'total': 12, u'_id': u'xproc'}
+
+Number of tweets on 2015-02-14 between 08:00:00 and 09:00:00 (GMT) = 46
+Number of tweets on 2015-02-14 between 09:00:00 and 10:00:00 (GMT) = 55
+Number of tweets on 2015-02-14 between 10:00:00 and 11:00:00 (GMT) = 19
+Number of tweets on 2015-02-14 between 11:00:00 and 12:00:00 (GMT) = 42
+Number of tweets on 2015-02-14 between 12:00:00 and 13:00:00 (GMT) = 9
+Number of tweets on 2015-02-14 between 13:00:00 and 14:00:00 (GMT) = 24
+Number of tweets on 2015-02-14 between 14:00:00 and 15:00:00 (GMT) = 24
+Number of tweets on 2015-02-15 between 08:00:00 and 09:00:00 (GMT) = 21
+Number of tweets on 2015-02-15 between 09:00:00 and 10:00:00 (GMT) = 56
+Number of tweets on 2015-02-15 between 10:00:00 and 11:00:00 (GMT) = 16
+Number of tweets on 2015-02-15 between 11:00:00 and 12:00:00 (GMT) = 66
+Number of tweets on 2015-02-15 between 12:00:00 and 13:00:00 (GMT) = 13
+Number of tweets on 2015-02-15 between 13:00:00 and 14:00:00 (GMT) = 13
+Number of tweets on 2015-02-15 between 14:00:00 and 15:00:00 (GMT) = 41
